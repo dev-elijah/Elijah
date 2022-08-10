@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eli</h1>
-<h3 align="center">An IT Tech and passionate developer from the UK</h3>
+<h3 align="center">An IT Technician and passionate developer from the UK</h3>
 
 - 👨‍💻 All of my projects are available at [https://dev-elijah.github.io](https://dev-elijah.github.io)
 
