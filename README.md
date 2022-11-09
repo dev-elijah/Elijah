@@ -7,7 +7,7 @@
 
 <h3 align="left">Discord Studio Link:</h3>
 <p align="left">
-<a href="https://discord.gg/tunk7qVw2Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tunk7qVw2Y" height="30" width="40" /></a>
+<a href="https://discord.gg/3UBXHkhCQY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tunk7qVw2Y" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools i know of or are familiar with:</h3>
