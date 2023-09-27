@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Eli</h1>
+<h1 align="center">Hi, I'm Eli</h1>
 <h3 align="center">An IT Technician and passionate developer from the UK</h3>
 
-- 👨‍💻 All of my projects are available at [https://dev-elijah.github.io](https://dev-elijah.github.io)
+- 👨‍💻 All of my projects are available at [WIP](https://)
 
 - 📫 How to reach me **elijahalexanderwork@gmail.com**
 
